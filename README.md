@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/jamilnim/jamilnim/blob/main/jjamilprofilepic.jpeg" width="400" alt="Muhammad Jamil">
+    <img src="https://github.com/jamilnim/jamilnim/blob/main/jamilprofilepic.jpeg" width="400" alt="Muhammad Jamil">
 </p>
 
 <h1 align="center">
