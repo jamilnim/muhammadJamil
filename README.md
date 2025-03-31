@@ -8,7 +8,7 @@ Currently, I am transitioning into software development and studying full-stack 
 
 ## 🌐 Socials:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-name/)](https://www.linkedin.com/in/muhammad-jamil-1a7a6864/)
+[![LinkedIn](https://www.linkedin.com/in/muhammad-jamil-1a7a6864/)
 
 
 # 💻 Tech Stack:
