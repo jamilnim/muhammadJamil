@@ -1,10 +1,15 @@
-# 💫 About Me:
+# About Me:
 
-<br>👋 Hi, I’m @Muhammad Jamil<br>👀 I’m interested in learning web development<br>🌱 I’m currently learning html, css and javascript<br>💞️ I’m looking to collaborate on creative and easy projects<br>📫 You can reach me through Linkedin Badge<br>😄 Pronouns: She/ Her<br>⚡ Fun fact: I am a social butterfly and love to vlog.
+I am Muhammad Jamil, a seasoned professional with 18 years of experience, including 11 years in leadership roles at H&M Supply Chain. Throughout my career, I have contributed to various IT projects, such as the sustainable materials integration and Higg integration into H&M's website.
+
+Beyond business development, I have also served as a lead trainer in 2016 for CASTO and OFS, H&M’s order management software. My expertise spans supply chain management, IT project execution, and leadership.
+
+Currently, I am transitioning into software development and studying full-stack development at Helsinki Business College. I am eager to leverage my extensive business development and leadership experience to make meaningful contributions in the field of software development.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habibaurmi/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-name/)](https://www.linkedin.com/in/muhammad-jamil-1a7a6864/)
+
 
 # 💻 Tech Stack:
 
