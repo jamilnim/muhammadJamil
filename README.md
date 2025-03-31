@@ -15,10 +15,9 @@ Currently, I am transitioning into software development and studying full-stack 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=HabibaUrmi&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HabibaUrmi&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaUrmi&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jamilnim&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-### ✍️ Random Dev Quote
+![](https://github-readme-streak-stats.herokuapp.com/?user=jamilnim&theme=shadow_green&hide_border=false)<br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilnim&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
